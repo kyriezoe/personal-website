@@ -1,0 +1,8 @@
+yarn
+yarn build
+
+## Miscellaneous
+
+- I'm a fan of **basketball** and [Kyrie Irving](https://en.wikipedia.org/wiki/Kyrie_Irving). I played SG/SF for Hongyi Honor College, and once hit **seven** 3-pointers (7/11) in three games.
+- I love operas, and played leading roles in **A Midsummer Night's Dream** and **The Taming of the Shrew**.
+- I learned and mastered **[Chinese Bamboo Flute](https://en.wikipedia.org/wiki/Dizi_(instrument))** when I was a kid, but I haven't played it for years.
